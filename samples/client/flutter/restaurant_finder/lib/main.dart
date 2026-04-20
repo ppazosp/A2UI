@@ -6,7 +6,6 @@ import 'package:flutter/material.dart';
 import 'package:logging/logging.dart';
 
 import 'chat_session.dart';
-import 'message.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -52,7 +51,6 @@ class _ChatScreenState extends State<ChatScreen> {
   void initState() {
     super.initState();
     _chatSession = ChatSession(agentUrl: 'http://localhost:10002');
-    _chatSession.addListener(_scrollToBottom);
   }
 
   @override
@@ -65,24 +63,7 @@ class _ChatScreenState extends State<ChatScreen> {
           body: SafeArea(
             child: Column(
               children: [
-                Expanded(
-                  child: ListView.builder(
-                    controller: _scrollController,
-                    itemCount: _chatSession.messages.length,
-                    itemBuilder: (context, index) {
-                      final Message message = _chatSession.messages[index];
-                      return ListTile(
-                        title: MessageView(
-                          message,
-                          _chatSession.surfaceController,
-                        ),
-                        tileColor: message.isUser
-                            ? Colors.blue.withValues(alpha: 0.1)
-                            : null,
-                      );
-                    },
-                  ),
-                ),
+                Text('Hello'),
 
                 if (_chatSession.isProcessing)
                   const Padding(
@@ -126,18 +107,6 @@ class _ChatScreenState extends State<ChatScreen> {
     if (text.isEmpty) return;
     _textController.clear();
     await _chatSession.sendMessage(text);
-  }
-
-  void _scrollToBottom() {
-    WidgetsBinding.instance.addPostFrameCallback((_) {
-      if (_scrollController.hasClients) {
-        _scrollController.animateTo(
-          _scrollController.position.maxScrollExtent,
-          duration: const Duration(milliseconds: 300),
-          curve: Curves.easeOut,
-        );
-      }
-    });
   }
 
   @override
