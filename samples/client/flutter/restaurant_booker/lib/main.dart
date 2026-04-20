@@ -5,7 +5,6 @@
 import 'package:flutter/material.dart';
 import 'package:logging/logging.dart';
 
-import 'a2a_transport.dart';
 import 'chat_session.dart';
 import 'message.dart';
 
@@ -43,16 +42,16 @@ class ChatScreen extends StatefulWidget {
 }
 
 class _ChatScreenState extends State<ChatScreen> {
-  final TextEditingController _textController = TextEditingController();
+  final TextEditingController _textController = TextEditingController(
+    text: 'Top 5 Chinese restaurants in New York.',
+  );
   final ScrollController _scrollController = ScrollController();
   late final ChatSession _chatSession;
 
   @override
   void initState() {
     super.initState();
-    _chatSession = ChatSession(
-      transport: A2aTransport(agentUrl: 'http://localhost:10002'),
-    );
+    _chatSession = ChatSession(agentUrl: 'http://localhost:10002');
     _chatSession.addListener(_scrollToBottom);
   }
 
