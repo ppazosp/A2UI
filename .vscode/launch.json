@@ -6,8 +6,8 @@
   // Configurations to run commands via VS Code UI in 'Run and Debug' panel.
   "configurations": [
     {
-      "name": "restaurant booker, Dart renderer",
-      "cwd": "samples/client/flutter/restaurant_booker",
+      "name": "restaurant finder, Dart renderer",
+      "cwd": "samples/client/flutter/restaurant_finder",
       "request": "launch",
       "type": "dart"
     },
