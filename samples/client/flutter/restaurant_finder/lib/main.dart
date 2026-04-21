@@ -63,7 +63,7 @@ class _ChatScreenState extends State<ChatScreen> {
           body: SafeArea(
             child: Column(
               children: [
-                Text('Hello'),
+                const Text('Hello'),
 
                 if (_chatSession.isProcessing)
                   const Padding(
