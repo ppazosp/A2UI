@@ -11,8 +11,7 @@ environment:
   flutter: ">=3.35.7 <4.0.0"
 
 workspace:
-  - samples/client/flutter/eval
-  - samples/client/flutter/restaurant_booker
+  - samples/client/flutter/restaurant_finder
 
 flutter:
   uses-material-design: true

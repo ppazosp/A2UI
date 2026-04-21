@@ -196,455 +196,455 @@
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Accessibility.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/Accessibility-3R51BVLJ3T86ROGPGC6EYX2DM.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/Accessibility-7CVHGZHDMQJMQPSDPG3WYJ6MB.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Accessibility"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/AppKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/AppKit-59ZR12PN5NWC47IS1KZJ117LR.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/AppKit-6D1LOAHHIU0MNODA3TUR51ZX7.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "AppKit"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ApplicationServices.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/ApplicationServices-CHWC27PPJLI5NKUCONLBILQGM.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/ApplicationServices-3XC8O98LP65PFYO8K99F6XX9B.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ApplicationServices"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CFNetwork.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/CFNetwork-9O5W59E03C6YFDFGQ895TIQV7.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/CFNetwork-BO9MBIRUY9QEA8SPZV2GND4QR.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CFNetwork"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/cups.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/CUPS-8UG4IM9JKF5BWJW1ODUH1AKFZ.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/CUPS-BWV36LIH7YN4RBKORQAFCEVHJ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CUPS"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Cocoa.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/Cocoa-E3U6LB4FUNJ656DM1UJHCA5XB.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/Cocoa-8PG5YF13Z26HQ1JY3JN1SD6Q0.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Cocoa"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ColorSync.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/ColorSync-AP1PAVUNAI6LYOF6ZTCIDJ23P.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/ColorSync-59KEKVZL8A369FWAE3JJC0P64.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ColorSync"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreAudio.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/CoreAudio-6TYQVI7URACXI2YT6OV1G38SQ.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/CoreAudio-BVFU5SYRGR2J8NTPYVV23R5Y4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreAudio"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreAudioTypes.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/CoreAudioTypes-8NMAGLG55FN95G2RULK1J8IKK.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/CoreAudioTypes-6RFI4AZ68635BQUFEL5WT8ZZ3.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreAudioTypes"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreData.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/CoreData-92FVGAZHAUPTK9NG8IU68M579.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/CoreData-E396V0DN8QOJUP3VCX1NFZATF.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreData"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreFoundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/CoreFoundation-BG3GLLG5NGSW7CWIPACSK0P8S.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/CoreFoundation-2NLM22QF6K2PODKC0S00DAI7L.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreFoundation"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreGraphics.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/CoreGraphics-43W8SWK3CFQ85TD4YFHRED8XB.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/CoreGraphics-3YVXX9DN2M9JRDAXN2M7Q7W4X.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreGraphics"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreImage.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/CoreImage-49JGQJ39NVIEUUC2CECTB450F.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/CoreImage-8JO9PKOANK7IAE3Z8QGQ0WJON.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreImage"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreMedia.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/CoreMedia-C51RTZ34ARWI3YWU3JVEQ12ZK.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/CoreMedia-9PW8CH01CCJZU3859EKS82POI.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreMedia"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreServices.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/CoreServices-167W0RXSGQUB5FSGB6QP5IK66.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/CoreServices-88RHO0DV62ECN234S0IQVKLVK.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreServices"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreText.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/CoreText-D9V2J5DX6TCLCEMFG41T5MRHD.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/CoreText-6X3FD0KAQOW3QZ6N35MXC2Y29.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreText"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreTransferable.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/CoreTransferable-6D8VTOXZ5NPLWXYV7K1SIA9UG.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/CoreTransferable-D4GDPUAEWB7NQRTZYVPADO3XF.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreTransferable"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/CoreVideo.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/CoreVideo-BHEIUOPV0Q4NL0UZZRCDGU8IQ.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/CoreVideo-F3LWTQQCN5IKYUMBBHL18G3Q6.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "CoreVideo"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/Darwin.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/Darwin-5YLH6UVK67V863E8GT2OCMJQ8.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/Darwin-40JF9G2B3SPX0CJC1368JXK30.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Darwin"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DataDetection.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/DataDetection-EUZSHKJ0HVVA6U62XZUSPSQ30.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/DataDetection-8Z8KMWZ1KQO5XW6PVCWTRBD5C.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DataDetection"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DeveloperToolsSupport.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/DeveloperToolsSupport-834JQF00FD47TL5KCSRJL6AAN.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/DeveloperToolsSupport-3ZHW1MRX2JFU0NEJJ1MSJVITX.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DeveloperToolsSupport"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/DiskArbitration.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/DiskArbitration-1NB00UZ8ZL1HPSTX1XB5KVSNJ.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/DiskArbitration-8NY65LPRE0T3DH7VQTZ5PY0X0.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "DiskArbitration"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/dispatch.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/Dispatch-81LW75JH4WHEFFTE0PN4CX4HU.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/Dispatch-3USOT999U78UTFRB8UR4GDSG3.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Dispatch"
   },
   {
-    "clangModuleMapPath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/Build\/Products\/Debug\/FlutterMacOS.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/Build\/Intermediates.noindex\/SwiftExplicitPrecompiledModules\/FlutterMacOS-9TGMM0QP0HP8FZTHMY1Q2WVMS.pcm",
+    "clangModuleMapPath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/Build\/Products\/Debug\/FlutterMacOS.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/Build\/Intermediates.noindex\/SwiftExplicitPrecompiledModules\/FlutterMacOS-9HCWBMLAWDXYLT14S63YUHR4A.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "FlutterMacOS"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Foundation.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/Foundation-AI6NR3C8MPNHDQQK1NAGSGRR4.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/Foundation-E8TFZPSN6ZMO4RPJZVQLT4VBV.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Foundation"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/IOKit.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/IOKit-AIZ0AW7APT8IG326H9G3NUCJV.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/IOKit-7L4TAKM1AGL7TUQUVAOBUUTS8.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "IOKit"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/IOSurface.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/IOSurface-9XCORFHZ2HV3WDOGHEV5CSZLB.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/IOSurface-6SBWIRX7UP6ITTQKG7NH5FLFG.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "IOSurface"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/ImageIO.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/ImageIO-EFY1C6TX67TXRDWYKVVIYH0BQ.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/ImageIO-K04GK9FAAF9QIWDVTOPO6AZT.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ImageIO"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinBasic.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/MachO-3Y4012G027QQYQ3C58NW33X9Z.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/MachO-6AFCA7AUINIWTMQXLT66NQQJE.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "MachO"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Metal.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/Metal-EONZSBUBMZHB015EJNNZ72ZJY.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/Metal-6O0JJ4RXFM0SLV0UAM4PF1JYI.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Metal"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/OSLog.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/OSLog-ET2TBRWFTSKV9AXLEARHNX5BZ.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/OSLog-C3EN0HN7AG8EJYN2U6GFCHWK4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "OSLog"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/ObjectiveC.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/ObjectiveC-BCE7DA4GXLXY8D6UDWKG10LE0.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/ObjectiveC-2V5PLUZQX7RFQJ11FXM4AC9S8.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ObjectiveC"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/OpenGL.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/OpenGL-8BVR48ADCR1PIQ4TQ5WYJCW1X.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/OpenGL-BC46UYDWZKY4K6AQVVTLO41NQ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "OpenGL"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/QuartzCore.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/QuartzCore-414SDAE9PO9QC8FDYIZACJ6P3.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/QuartzCore-ERNU2TXAQRSZ5ZUI7M4PZW88M.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "QuartzCore"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Security.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/Security-C51R6QTJBH1I9I4DIW00WC412.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/Security-A4MPE11UK4JEYZLGKHZXN1EP4.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Security"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/SwiftShims-7SJG7QZ9IDBNBU7J8UV5B1PQG.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/SwiftShims-E278QMFQ3GNWGD5YOGNKGN3G2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftShims"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/SwiftUICore.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/SwiftUICore-5W7R2UDO1UCQA3ECV33D1A8CQ.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/SwiftUICore-A4YG4BOXJKBA3T8FE4IIW1J44.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftUICore"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/Symbols.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/Symbols-6W3EYXFU9O4NY490T4IQSDJ1D.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/Symbols-9V7A2X887KGQU4M1LZQWZT3HQ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "Symbols"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/System\/Library\/Frameworks\/UniformTypeIdentifiers.framework\/Modules\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/UniformTypeIdentifiers-BXFLO1G9CGQX9Z0G12O7IAVWF.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/UniformTypeIdentifiers-94JKW8XVW8HLJTRTYF9G9YDPX.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "UniformTypeIdentifiers"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/xpc.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/XPC-EP7CNV29S6KXZQY6PZ8571CYX.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/XPC-3QQ2YXALTQTZZ6DMKM6IMZDVU.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "XPC"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation1.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/_AvailabilityInternal-71747LAZ0HPGU2QB4VGTW8NNK.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/_AvailabilityInternal-ACRM2LQFBO0MJOPRJZ4A0WW17.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_AvailabilityInternal"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/_Builtin_float-7LMAWO00MZP8STV2E8N3KMAWF.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/_Builtin_float-E1R7RCS8KZTCCR0VZQSJ7S9XZ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_float"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/_Builtin_intrinsics-EHWOMTURQHU8RBHF0LA0TXS5M.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/_Builtin_intrinsics-B88OQ0JW9HGB58X54LWLY6B7X.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_intrinsics"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/_Builtin_inttypes-CEVYD0S4ZA63DSZJMBEHXDMCA.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/_Builtin_inttypes-BXEX63MNK1OIM4PIYFE0ALKNM.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_inttypes"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/_Builtin_limits-8XIVYO5NX8KTYZ2QA9YIW770L.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/_Builtin_limits-E9YH0V15AYU3R72DTBSE8EMMG.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_limits"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/_Builtin_stdarg-DH42GLNGGU6C3YC07CKGQE4DG.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/_Builtin_stdarg-ADCSPM48AEXLU7RSEVXH4MDE9.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdarg"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/_Builtin_stdatomic-7NUJCTBNR8QA5836MCCXNG5F.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/_Builtin_stdatomic-AIKLRYW09BFE1ORV4UH7UUYCM.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdatomic"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/_Builtin_stdbool-7JT7NEL5JTI1KTGG7K3J6Z581.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/_Builtin_stdbool-DAYHHDGJKJWGAKMI8XKEAIU1O.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdbool"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/_Builtin_stddef-AK3FSKS1Z0AJNAHINW2QKPI4E.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/_Builtin_stddef-7E06WIDEAO9E8BXKFACIJNN19.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stddef"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/_Builtin_stdint-4NPDI9EIZNQYAYO6X8DZ63IT6.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/_Builtin_stdint-CBXOL4BP5CF5ACXALST0574DB.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_stdint"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/_Builtin_tgmath-41L0O18HLGO3L8FIK9S11I003.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/_Builtin_tgmath-5KOMQ8AEPJ7CK98SOC68MB2EM.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_Builtin_tgmath"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation1.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation1-677DXG09B4RV2OHKMO9L5GR7O.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation1-BI139TXT1XDLCIMPD2RB1SKVL.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation1"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation2.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation2-AVRQ0LM7RP6SIUG8PEP4L9D5N.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation2-E5M9OGRQWZAKIS18583HKY2LR.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation2"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation3.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation3-28HF2KG8NPMEMI3VSP9EW19QX.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/_DarwinFoundation3-BZSSH7Q0TXH8VFH0MHKVS0A7O.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_DarwinFoundation3"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/_SwiftConcurrencyShims-AG1QFNRRMP834AEGI2NAX50C5.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/_SwiftConcurrencyShims-6GGWNZ59XDFR6KB8RBORS5ECB.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_SwiftConcurrencyShims"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/launch.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/launch-AKKVMTH390WYW3JI2YOS5BYDM.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/launch-8M06FOZILLQ8BTYUX98INZRP5.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "launch"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/libDER\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/libDER-D5QE4XWL94TONDB2NRGW6S9MR.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/libDER-BEUET4FZFIEVLN6M7X7GAQ4VN.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "libDER"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/libkern.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/libkern-BQ1CE9T5W4BH2UJKNJZLJMN7I.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/libkern-4TMS4CHGN716JYW4Y1ILG2YGL.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "libkern"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/os-C0BE9Y29DC4UYU6G0X2N4RE0Z.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/os-DFBLXFDEY5YBQHH32LQY0CPKZ.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/os_object-BY3XRA2P647Y1UZSHVEBBEFRV.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/os_object-DBU3KY1NW1NMW2SLM2BWHDB8G.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os_object"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/os.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/os_workgroup-DZCS48EQ1XHOFQ1AX386AZUPE.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/os_workgroup-345YYV9U9J5CK7Q4DTMQCV0JR.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "os_workgroup"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/ptrauth-5FNZW8VIMII143MNMLUNZOBTJ.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/ptrauth-1E8ILSDWJWN2K357XGH1MR57L.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ptrauth"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Toolchains\/XcodeDefault.xctoolchain\/usr\/lib\/clang\/17\/include\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/ptrcheck-6UTHF545B0QTFHZCDEAKH471L.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/ptrcheck-AEZVWG9UTGFWQCY28HX4BLZ70.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "ptrcheck"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/simd\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/simd-914J7WWGTLL2SKGSHDFSIW03M.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/simd-9K6XVYHG3FNFBT1MBB9ZDBAT3.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "simd"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/include\/DarwinFoundation2.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/sys_types-D7LCGFZZCU6HCG3K4KZFYA1FB.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/sys_types-A4AIZ4OBGK7IAQ8GKHPT3II07.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "sys_types"

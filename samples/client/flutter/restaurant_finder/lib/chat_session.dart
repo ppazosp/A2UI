@@ -37,9 +37,11 @@ class ChatSession extends ChangeNotifier {
   late final StreamSubscription<Object> _errorSubscription;
 
   void _init() {
-    _a2uiSubscription = _connector.stream.listen((message) {
-      _surfaceController.handleMessage(message);
-    });
+    // Predefine a surface.
+    _surfaceController.handleMessage(
+      const CreateSurface(catalogId: 'basic', surfaceId: 'main'),
+    );
+    _a2uiSubscription = _connector.stream.listen(_handleA2uiMessage);
 
     _textSubscription = _connector.textStream.listen(_updateAiMessage);
 
@@ -52,6 +54,10 @@ class ChatSession extends ChangeNotifier {
   }
 
   Message? _currentAiMessage;
+
+  void _handleA2uiMessage(A2uiMessage message) {
+    _surfaceController.handleMessage(message);
+  }
 
   void _updateAiMessage(String chunk) {
     if (_currentAiMessage == null) {

@@ -9,12 +9,12 @@
         "packageRef" : {
           "identity" : "audioplayers_darwin",
           "kind" : "fileSystem",
-          "location" : "/Users/polina/_/A2UI/samples/client/flutter/restaurant_booker/macos/Flutter/ephemeral/Packages/.packages/audioplayers_darwin",
+          "location" : "/Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/macos/Flutter/ephemeral/Packages/.packages/audioplayers_darwin",
           "name" : "audioplayers_darwin"
         },
         "state" : {
           "name" : "fileSystem",
-          "path" : "/Users/polina/_/A2UI/samples/client/flutter/restaurant_booker/macos/Flutter/ephemeral/Packages/.packages/audioplayers_darwin"
+          "path" : "/Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/macos/Flutter/ephemeral/Packages/.packages/audioplayers_darwin"
         },
         "subpath" : "audioplayers_darwin"
       },
@@ -23,12 +23,12 @@
         "packageRef" : {
           "identity" : "flutterframework",
           "kind" : "fileSystem",
-          "location" : "/Users/polina/_/A2UI/samples/client/flutter/restaurant_booker/macos/Flutter/ephemeral/Packages/.packages/FlutterFramework",
+          "location" : "/Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/macos/Flutter/ephemeral/Packages/.packages/FlutterFramework",
           "name" : "FlutterFramework"
         },
         "state" : {
           "name" : "fileSystem",
-          "path" : "/Users/polina/_/A2UI/samples/client/flutter/restaurant_booker/macos/Flutter/ephemeral/Packages/.packages/FlutterFramework"
+          "path" : "/Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/macos/Flutter/ephemeral/Packages/.packages/FlutterFramework"
         },
         "subpath" : "flutterframework"
       },
@@ -37,12 +37,12 @@
         "packageRef" : {
           "identity" : "url_launcher_macos",
           "kind" : "fileSystem",
-          "location" : "/Users/polina/_/A2UI/samples/client/flutter/restaurant_booker/macos/Flutter/ephemeral/Packages/.packages/url_launcher_macos",
+          "location" : "/Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/macos/Flutter/ephemeral/Packages/.packages/url_launcher_macos",
           "name" : "url_launcher_macos"
         },
         "state" : {
           "name" : "fileSystem",
-          "path" : "/Users/polina/_/A2UI/samples/client/flutter/restaurant_booker/macos/Flutter/ephemeral/Packages/.packages/url_launcher_macos"
+          "path" : "/Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/macos/Flutter/ephemeral/Packages/.packages/url_launcher_macos"
         },
         "subpath" : "url_launcher_macos"
       },
@@ -51,12 +51,12 @@
         "packageRef" : {
           "identity" : "video_player_avfoundation",
           "kind" : "fileSystem",
-          "location" : "/Users/polina/_/A2UI/samples/client/flutter/restaurant_booker/macos/Flutter/ephemeral/Packages/.packages/video_player_avfoundation",
+          "location" : "/Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/macos/Flutter/ephemeral/Packages/.packages/video_player_avfoundation",
           "name" : "video_player_avfoundation"
         },
         "state" : {
           "name" : "fileSystem",
-          "path" : "/Users/polina/_/A2UI/samples/client/flutter/restaurant_booker/macos/Flutter/ephemeral/Packages/.packages/video_player_avfoundation"
+          "path" : "/Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/macos/Flutter/ephemeral/Packages/.packages/video_player_avfoundation"
         },
         "subpath" : "video_player_avfoundation"
       }

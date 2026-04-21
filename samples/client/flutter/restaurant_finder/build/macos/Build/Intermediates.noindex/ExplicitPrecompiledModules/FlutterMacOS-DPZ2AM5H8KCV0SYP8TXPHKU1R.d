@@ -1,0 +1,22 @@
+moduledependenciestarget: \
+  /Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/build/macos/Build/Products/Debug/FlutterMacOS.framework/Modules/module.modulemap \
+  /Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterMacOS.h \
+  /Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterAppDelegate.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.1.sdk/System/Library/Frameworks/Cocoa.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.1.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.1.sdk/System/Library/Frameworks/AppKit.framework/Modules/module.modulemap \
+  /Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterAppLifecycleDelegate.h \
+  /Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterMacros.h \
+  /Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterChannels.h \
+  /Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterCodecs.h \
+  /Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterDartProject.h \
+  /Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterEngine.h \
+  /Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterHourFormat.h \
+  /Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterPluginRegistrarMacOS.h \
+  /Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterPlatformViews.h \
+  /Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterPluginMacOS.h \
+  /Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterTexture.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.1.sdk/System/Library/Frameworks/CoreMedia.framework/Modules/module.modulemap \
+  /Users/polina/_/A2UI/samples/client/flutter/restaurant_finder/build/macos/Build/Products/Debug/FlutterMacOS.framework/Headers/FlutterViewController.h

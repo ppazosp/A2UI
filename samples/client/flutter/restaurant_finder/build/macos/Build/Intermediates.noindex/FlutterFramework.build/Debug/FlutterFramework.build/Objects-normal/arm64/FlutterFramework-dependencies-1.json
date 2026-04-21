@@ -21,14 +21,14 @@
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/SwiftShims-7SJG7QZ9IDBNBU7J8UV5B1PQG.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/SwiftShims-E278QMFQ3GNWGD5YOGNKGN3G2.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "SwiftShims"
   },
   {
     "clangModuleMapPath" : "\/Applications\/Xcode.app\/Contents\/Developer\/Platforms\/MacOSX.platform\/Developer\/SDKs\/MacOSX.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
-    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_booker\/build\/macos\/ModuleCache.noindex\/_SwiftConcurrencyShims-AG1QFNRRMP834AEGI2NAX50C5.pcm",
+    "clangModulePath" : "\/Users\/polina\/_\/A2UI\/samples\/client\/flutter\/restaurant_finder\/build\/macos\/ModuleCache.noindex\/_SwiftConcurrencyShims-6GGWNZ59XDFR6KB8RBORS5ECB.pcm",
     "isBridgingHeaderDependency" : false,
     "isFramework" : false,
     "moduleName" : "_SwiftConcurrencyShims"

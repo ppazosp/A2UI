@@ -1,6 +1,5 @@
 {
   "roots": [
-    "eval",
     "genui_monorepo",
     "restaurant_finder"
   ],
@@ -10,18 +9,6 @@
       "version": "0.0.0",
       "dependencies": [],
       "devDependencies": []
-    },
-    {
-      "name": "eval",
-      "version": "0.0.0",
-      "dependencies": [
-        "dartantic_ai",
-        "flutter",
-        "genui"
-      ],
-      "devDependencies": [
-        "flutter_test"
-      ]
     },
     {
       "name": "restaurant_finder",
@@ -98,28 +85,6 @@
         "meta",
         "sky_engine",
         "vector_math"
-      ]
-    },
-    {
-      "name": "dartantic_ai",
-      "version": "3.4.0",
-      "dependencies": [
-        "anthropic_sdk_dart",
-        "collection",
-        "dartantic_interface",
-        "googleai_dart",
-        "html",
-        "http",
-        "logging",
-        "mcp_dart",
-        "meta",
-        "mime",
-        "mistralai_dart",
-        "ollama_dart",
-        "openai_dart",
-        "rxdart",
-        "sse_channel",
-        "uuid"
       ]
     },
     {
@@ -383,91 +348,6 @@
       "dependencies": []
     },
     {
-      "name": "rxdart",
-      "version": "0.28.0",
-      "dependencies": []
-    },
-    {
-      "name": "openai_dart",
-      "version": "1.4.0",
-      "dependencies": [
-        "http",
-        "logging",
-        "meta",
-        "web_socket"
-      ]
-    },
-    {
-      "name": "ollama_dart",
-      "version": "1.4.1",
-      "dependencies": [
-        "http",
-        "logging",
-        "meta"
-      ]
-    },
-    {
-      "name": "mistralai_dart",
-      "version": "1.3.0",
-      "dependencies": [
-        "http",
-        "logging",
-        "meta"
-      ]
-    },
-    {
-      "name": "mime",
-      "version": "2.0.0",
-      "dependencies": []
-    },
-    {
-      "name": "mcp_dart",
-      "version": "2.1.0",
-      "dependencies": [
-        "http"
-      ]
-    },
-    {
-      "name": "html",
-      "version": "0.15.6",
-      "dependencies": [
-        "csslib",
-        "source_span"
-      ]
-    },
-    {
-      "name": "googleai_dart",
-      "version": "5.1.0",
-      "dependencies": [
-        "collection",
-        "http",
-        "logging",
-        "meta",
-        "web_socket"
-      ]
-    },
-    {
-      "name": "dartantic_interface",
-      "version": "4.0.0",
-      "dependencies": [
-        "genai_primitives",
-        "json_schema_builder",
-        "logging",
-        "meta",
-        "mime",
-        "uuid"
-      ]
-    },
-    {
-      "name": "anthropic_sdk_dart",
-      "version": "1.5.0",
-      "dependencies": [
-        "http",
-        "logging",
-        "meta"
-      ]
-    },
-    {
       "name": "async",
       "version": "2.13.1",
       "dependencies": [
@@ -632,6 +512,14 @@
       ]
     },
     {
+      "name": "html",
+      "version": "0.15.6",
+      "dependencies": [
+        "csslib",
+        "source_span"
+      ]
+    },
+    {
       "name": "url_launcher_windows",
       "version": "3.1.5",
       "dependencies": [
@@ -688,6 +576,11 @@
         "flutter",
         "url_launcher_platform_interface"
       ]
+    },
+    {
+      "name": "mime",
+      "version": "2.0.0",
+      "dependencies": []
     },
     {
       "name": "cross_file",
@@ -783,20 +676,6 @@
       ]
     },
     {
-      "name": "web_socket",
-      "version": "1.0.1",
-      "dependencies": [
-        "web"
-      ]
-    },
-    {
-      "name": "csslib",
-      "version": "1.0.2",
-      "dependencies": [
-        "source_span"
-      ]
-    },
-    {
       "name": "vm_service",
       "version": "15.1.0",
       "dependencies": []
@@ -830,6 +709,13 @@
       "version": "0.0.0",
       "dependencies": [
         "flutter"
+      ]
+    },
+    {
+      "name": "csslib",
+      "version": "1.0.2",
+      "dependencies": [
+        "source_span"
       ]
     },
     {

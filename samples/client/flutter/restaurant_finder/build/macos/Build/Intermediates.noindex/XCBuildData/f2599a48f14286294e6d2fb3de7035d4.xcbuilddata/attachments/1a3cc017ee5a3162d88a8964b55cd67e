@@ -1,4 +1,0 @@
-module video_player_avfoundation_macos {
-umbrella "/Users/polina/_/A2UI/samples/client/flutter/restaurant_booker/macos/Flutter/ephemeral/Packages/.packages/video_player_avfoundation/Sources/video_player_avfoundation_macos/include"
-export *
-}
